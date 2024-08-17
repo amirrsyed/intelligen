@@ -4,7 +4,7 @@
 Open-source project that uses ML to generate synthetic alternative data.  Generated data is actionable and used as training data for next-gen models.  
 
 ## Generated Data Sets 📊📈
-[datasets](https://www.example.com](https://github.com/amirrsyed/intelligen/tree/main/datasets)
+[datasets](https://github.com/amirrsyed/intelligen/tree/main/datasets)
 ### Completed
 - Weather Predictions Dataset - link
 - Correlative CPI Datasets - link
