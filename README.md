@@ -1,5 +1,6 @@
 # IntelliGen
 *Generative ML models creating synthetic alternative data.*
+
 Open-source project that uses ML to generate synthetic alternative data.  Generated data is actionable and used as training data for next-gen models.  
 
 ##Generated Data Sets 📊📈
